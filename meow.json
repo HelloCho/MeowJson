@@ -1,0 +1,9 @@
+{
+  "cats": [
+    {"name": "럭키두", "age":5, "kind": "Korean Cat"},
+    {"name": "쮸르", "age":4, "kind": "Korean Cat"},
+    {"name": "벌", "age":6, "kind": "American Cat"},
+    {"name": "고구마", "age":8, "kind": "Russian Blue"}
+  ],
+  "backgroundColors": ["salmon", "orange", "skyblue", "green"]
+}
